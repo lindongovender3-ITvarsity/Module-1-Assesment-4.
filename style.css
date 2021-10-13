@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    border-width: 5px;
+    border-style: outset;
+    border-color:#b3ef3f ;
+}
+th{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    background-color: #b3ef3f;
+    color: navy;
+}
+td{ font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    background-color: cyan;
+    color: navy;
+}
